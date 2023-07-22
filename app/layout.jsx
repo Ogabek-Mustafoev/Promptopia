@@ -1,6 +1,5 @@
 import { Nav, Provider } from "@components";
 import "@styles/globals.css";
-import "nprogress/nprogress.css";
 
 export const metadata = {
   title: "Promptopia",
